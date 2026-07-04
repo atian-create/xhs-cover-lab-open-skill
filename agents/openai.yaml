@@ -1,0 +1,7 @@
+interface:
+  display_name: "XHS Cover Lab"
+  short_description: "Diagnose and brief Xiaohongshu cover styles"
+  default_prompt: "Use $xhs-cover-lab-open to diagnose Xiaohongshu/RedNote cover types, route tracks to suitable cover styles, adapt viral references safely, and generate cover briefs before design or image generation."
+policy:
+  allow_implicit_invocation: true
+
